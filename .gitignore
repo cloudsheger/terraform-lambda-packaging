@@ -22,4 +22,3 @@ venv/
 
 terraform-provider-aws
 terraform.tfstate
-src
